@@ -1,0 +1,12 @@
+.camera-buttons-container {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .camera-buttons-container button {
+    margin: 5px;
+  }
