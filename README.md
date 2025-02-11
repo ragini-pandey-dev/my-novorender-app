@@ -16,7 +16,7 @@ This repository contains a series of frontend tasks designed to gain familiarity
 - You should be able to see the condos building and move around in the 3D scene.
 
 #### Demo:
-- [Placeholder for video demo]
+- [Video Demo](https://drive.google.com/file/d/1a2b3c4d5e6f7g8h9i0jklmnopqrstuv/view?usp=sharing)
 
 ### 2. Store Camera Positions
 
@@ -29,7 +29,7 @@ This repository contains a series of frontend tasks designed to gain familiarity
 
 
 #### Demo:
-- [Placeholder for video demo]
+- [Video Demo](https://drive.google.com/file/d/1a2b3c4d5e6f7g8h9i0jklmnopqrstuv/view?usp=sharing)
 
 ### 3. Isolate Objects
 
@@ -48,7 +48,7 @@ This repository contains a series of frontend tasks designed to gain familiarity
 
 
 #### Demo:
-- [Placeholder for video demo]
+- [Video Demo](https://drive.google.com/file/d/1a2b3c4d5e6f7g8h9i0jklmnopqrstuv/view?usp=sharing)
 
 ## How to Run the Project
 
@@ -56,3 +56,14 @@ This repository contains a series of frontend tasks designed to gain familiarity
    ```sh
    git clone https://github.com/ragini-pandey-dev/my-novorender-app.git
    
+2. Navigate to the project directory:
+   ```sh
+   cd my-novorender-app
+
+3. Install the dependencies:
+   ```sh
+   npm install
+   
+4. Start the development server:
+   ```sh
+   npm run dev
