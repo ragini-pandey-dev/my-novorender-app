@@ -1,11 +1,8 @@
 # Frontend Tasks
-
 This repository contains a series of frontend tasks designed to gain familiarity with the main APIs of Novorender SDK
-
 
 ## Repository Setup
 - React + TypeScript + vite
-
 
 ### 1. Load Scene
 
@@ -14,9 +11,6 @@ This repository contains a series of frontend tasks designed to gain familiarity
 - The canvas should take up the entire width and height of the browser window.
 - The view's camera controller should be a `"flight"` controller.
 - You should be able to see the condos building and move around in the 3D scene.
-
-#### Demo:
-- [Video Demo](https://drive.google.com/file/d/1a2b3c4d5e6f7g8h9i0jklmnopqrstuv/view?usp=sharing)
 
 ### 2. Store Camera Positions
 
@@ -27,9 +21,6 @@ This repository contains a series of frontend tasks designed to gain familiarity
   - `Left click`: Go to the stored position and rotation.
 - You should be able to move around the 3D scene and save up to 3 positions to jump back to.
 
-
-#### Demo:
-- [Video Demo](https://drive.google.com/file/d/1a2b3c4d5e6f7g8h9i0jklmnopqrstuv/view?usp=sharing)
 
 ### 3. Isolate Objects
 
@@ -48,7 +39,7 @@ This repository contains a series of frontend tasks designed to gain familiarity
 
 
 #### Demo:
-- [Video Demo](https://drive.google.com/file/d/1a2b3c4d5e6f7g8h9i0jklmnopqrstuv/view?usp=sharing)
+- [Video Demo](https://drive.google.com/file/d/1sVCUCx7IiTUW_HXf-EXlHOQFlKkwttry/view?usp=sharing)
 
 ## How to Run the Project
 
