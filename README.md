@@ -39,7 +39,7 @@ This repository contains a series of frontend tasks designed to gain familiarity
 
 
 #### Demo:
-- [Video Demo](https://drive.google.com/file/d/1sVCUCx7IiTUW_HXf-EXlHOQFlKkwttry/view?usp=sharing)
+- [Video Demo](https://drive.google.com/file/d/1nvDAFyGVmOERWLtCN7wZJhvF13yXXlSC/view?usp=drive_link)
 
 ## How to Run the Project
 
